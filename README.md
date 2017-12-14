@@ -1,2 +1,1 @@
-# WechatOrderAndEat
 # FlappyBird
